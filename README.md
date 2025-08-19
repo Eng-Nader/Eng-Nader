@@ -33,6 +33,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]( https://www.instagram.com/n.ader_99/)
 
 
+
+
+## ✨  My Resolve (Sasuke’s Way)
+
+> "Having too many bonds causes one to lose focus,  
+> weakening their strongest wish, their greatest desire." – Sasuke Uchiha  
+> "My dream doesn’t exist in the future.  
+> It lies in the past. That’s the only place it exists." – Sasuke Uchiha
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh4Ymp3bnp4ZThyZWxxdWs3eGRzNGEzc2FwbDNxYmMzaGVwbXYwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlCb3AjEE6N4Q/giphy.gif" width="300" />
+
+
 ---
 
 ```dart
