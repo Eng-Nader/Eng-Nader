@@ -58,21 +58,20 @@ class AboutMe extends FlutterDev {
 
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-<div align="center" >
-<a  href="https://github.com/Eng-Nader">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
+<div align="center">
+  <a href="https://github.com/Eng-Nader">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Nader&theme=nord_dark" width="32.5%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Nader&theme=nord_dark" width="32.5%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Nader&theme=nord_dark" width="32.5%"/>
+  </a>
+</div>
 
 <details>
   <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Nader&theme=nord_dark"/>
+  <img src="https://streak-stats.demolab.com?user=Eng-Nader&theme=nord"/>
 </details>
+
   
 <hr></hr>
 
