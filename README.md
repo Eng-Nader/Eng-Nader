@@ -21,7 +21,7 @@
 ![Hive](https://img.shields.io/badge/Hive-FFAE00?style=flat&logo=hive&logoColor=white)
 ![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=flat&logo=flutter&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=api&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=flat)
+![MVVM Architecture](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=flat)
 ![Responsive UI](https://img.shields.io/badge/Responsive%20UI-1E90FF?style=flat)
 ![OOP](https://img.shields.io/badge/OOP-FF5733?style=flat)
 ![Algorithms](https://img.shields.io/badge/Algorithms-0066CC?style=flat)
