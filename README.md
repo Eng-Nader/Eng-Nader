@@ -34,6 +34,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]( https://www.instagram.com/n.ader_99/)
 ![Profile views](https://komarev.com/ghpvc/?username=Eng-Nader&label=Profile%20views&color=0e75b6&style=flat)
 
+## 📌 Learning Focus
+
+🔹 **60% Technology** – Building apps, frameworks, APIs, databases, and testing.  
+🔹 **40% Fundamentals & Principles** – Data structures, algorithms, OOP, design patterns, and clean code.
+
+💡 Balance between **Tech** and **Fundamentals** is the key to becoming a strong developer. (Quotes from Omar Ahmed)
+
 
 
 
